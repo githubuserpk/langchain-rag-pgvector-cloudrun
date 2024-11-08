@@ -1,0 +1,19 @@
+## codelab url: https://codelabs.developers.google.com/codelabs/build-and-deploy-a-langchain-app-on-cloud-run#2
+
+
+## setup config 
+
+## install langchain-cli
+pip install -U langchain-cli
+
+## install pipx
+pip install pipx 
+
+## output
+## WARNING: The script userpath is installed in '/home/pkdeltaai_07/.local/bin' which is not on PATH
+ 
+## add pipx ensurepath to add to the path 
+python -m pipx ensurepath
+
+## output
+## Success! Added /home/pkdeltaai_07/.local/bin to the PATH environment variable.
