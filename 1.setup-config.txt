@@ -1,5 +1,6 @@
 ## codelab url: https://codelabs.developers.google.com/codelabs/build-and-deploy-a-langchain-app-on-cloud-run#2
 
+## The steps are in this document: https://wietsevenema.eu/installing-python-on-your-development-workstation/
 ##################################################
 ## Below are the main steps 4 lines script 
 ##################################################
