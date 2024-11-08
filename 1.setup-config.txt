@@ -8,6 +8,9 @@
 ## pipx ensurepath
 
 ## pipx install poetry
+
+## in below command we are instructing poetry to create a virtual environment within the project, i think it will be called .venv
+## poetry config virtualenvs.in-project true
 ##################################################
 
 ## setup config 
