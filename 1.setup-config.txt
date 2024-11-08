@@ -1,9 +1,13 @@
 ## codelab url: https://codelabs.developers.google.com/codelabs/build-and-deploy-a-langchain-app-on-cloud-run#2
 
 ##################################################
+## Below are the main steps 4 lines script 
+##################################################
 ## python -m pip install --user pipx
 ## python -m pipx ensurepath
 ## pipx ensurepath
+
+## pipx install poetry
 ##################################################
 
 ## setup config 
